@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Designer, and Musician
 
+- 🥅 <strong>2021 Goals</strong>: Land a Python dev job 😃
 - 📚 I am currently learning <strong>Python</strong> for [100 Days of Code][course]!
 - 🎮 I’m also working on game development
-- 🥅 <strong>2021 Goals</strong>: Land a Python dev job 😃
-- ⚡️ Fun fact: I love drawing and playing guitar/piano
+- ⚡️ Fun fact: I love drawing and playing piano
 
 ### Connect with me:
 
