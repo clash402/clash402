@@ -1,22 +1,22 @@
-### Hey there, I'm [Josh][website] 👋
+## Hey. I'm [Josh][website] 👋
 
-## I'm a Developer, Designer, and Musician
+### Developer | Musician | Artist
 
-- 🥅 <strong>2021 Goals</strong>: Land a Python dev job 😃
-- 📚 I am currently learning <strong>Python</strong> for [100 Days of Code][course]!
-- 🎮 I’m also working on game development
-- ⚡️ Fun fact: I love drawing and playing piano
+- 📚 - I am currently learning Python for [100 Days of Code][course]
+- 🎮 - I’m also learning game design
+- 🎯 - 2021 Goals: Land a Python dev job 😃
+- ⚡️ - Fun fact: I love playing piano 🎹
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="JoshCourtney.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br/>
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
