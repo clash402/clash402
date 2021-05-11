@@ -1,10 +1,11 @@
 ## Hey. I'm [Josh][website] 👋
 
-### Developer | Musician | Artist
+### Developer | Artist
 
-- 🎯 - 2021 Goals: Land a new dev job 😃
-- 📚 - I am currently learning Python for [100 Days of Code][course]
-- 🎮 - I’m also learning game design
+- 🎯 - 2021 Goal: land a new iOS dev job 😃
+- 📚 - I am currently learning how to implement new algorithms and data structures
+- 💡 - I'm an algebra 1 & 2 tutor on the side
+- 🎮 - I’m also learning game design!
 - ⚡️ - Fun fact: I love playing piano 🎹
 
 #### Connect with me:
