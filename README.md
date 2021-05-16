@@ -1,6 +1,6 @@
 ## Hey. I'm [Josh][website] 👋
 
-### Developer | Artist
+### Developer | Artist | Musician
 
 - 🎯 - 2021 Goal: land a new iOS dev job 😃
 - 📚 - I am currently learning how to implement new algorithms and data structures
