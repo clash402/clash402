@@ -6,7 +6,7 @@
 - 📚 - I am currently learning how to implement new algorithms and data structures
 - 💡 - I'm an algebra 1 & 2 tutor on the side
 - 🎮 - I’m also learning game design!
-- ⚡️ - Fun fact: I love playing piano 🎹
+- ⚡️ - Love playing piano 🎹
 
 #### Connect with me:
 
