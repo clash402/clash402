@@ -24,8 +24,6 @@
 - Node.js, Strapi
 - SQL, MongoDB, GraphQL
 
----
-
 [website]: https://joshcourtney.com
 [course]: https://www.udemy.com/share/103IHM/
 [twitter]: https://twitter.com/joshrcourtney
