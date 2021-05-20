@@ -19,10 +19,10 @@
 
 #### Languages and Tools:
 
-- Swift, HTML, CSS, JavaScript
-- React, Next, Gatsby
-- Node.js, Strapi
-- SQL, MongoDB, GraphQL
+- Swift, JavaScript, Python
+- UIKit, SwiftUI
+- React, Next, Node.js
+- SQL, MongoDB
 
 [website]: https://joshcourtney.com
 [course]: https://www.udemy.com/share/103IHM/
