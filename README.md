@@ -1,12 +1,11 @@
 ## Hey. I'm [Josh][website] 👋
 
-### Developer | Artist | Musician
+### iOS Developer
 
-- 🎯 - 2021 Goal: land a new iOS dev job 😃
-- 📚 - I am currently learning how to implement new algorithms and data structures
-- 💡 - I'm also an algebra 1 & 2 tutor on the side
+- 🎯 - 2021 Goal: Land a new iOS dev job 😃
+- 📚 - I am currently learning how to implement new algorithms & data structures
+- 💡 - I'm also an algebra tutor on the side
 - 🎮 - Todo: Learn game design 👾
-- ⚡️ - Love playing piano 🎹
 
 #### Connect with me:
 
@@ -20,7 +19,7 @@
 #### Languages and Tools:
 
 - Swift, JavaScript, Python
-- UIKit, SwiftUI
+- SwiftUI, UIKit
 - React, Next, Node.js
 - SQL, MongoDB
 
