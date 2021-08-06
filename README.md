@@ -1,10 +1,10 @@
 ## Hey. I'm [Josh][website] 👋
 
-### iOS Developer
+### iOS Developer and Graphic Designer
 
 - 🎯 - 2021 Goal: Land a new iOS dev job 😃
 - 📚 - I am currently learning how to implement new algorithms & data structures
-- 💡 - I'm also an algebra tutor on the side
+- 💡 - I'm also a graphic designer
 - 🎮 - Todo: Learn game design 👾
 
 #### Connect with me:
