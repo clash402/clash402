@@ -1,8 +1,8 @@
 ## Hey. I'm [Josh][website] 👋
 
-### iOS Developer and Graphic Designer
+### Web Developer and Graphic Designer
 
-- 🎯 - 2021 Goal: Land a new iOS dev job 😃
+- 🎯 - 2021 Goal: Land a new dev job 😃
 - 📚 - I am currently learning how to implement new algorithms & data structures
 - 💡 - I'm also a graphic designer
 - 🎮 - Todo: Learn game design 👾
@@ -18,10 +18,10 @@
 
 #### Languages and Tools:
 
-- Swift, JavaScript, Python
-- SwiftUI, UIKit
-- React, Next, Node.js
-- SQL, MongoDB
+- JavaScript, Swift, Python
+- React, Next, Gatsby
+- Adobe XD, Photoshop, Illustrator
+- After Effects
 
 [website]: https://joshcourtney.com
 [course]: https://www.udemy.com/share/103IHM/
