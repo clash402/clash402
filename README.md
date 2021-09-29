@@ -1,11 +1,10 @@
 ## Hey. I'm [Josh][website] 👋
 
-### Web Developer and Graphic Designer
+### Full Stack Web Developer
 
-- 🎯 - 2021 Goal: Land a new dev job 😃
-- 📚 - I am currently learning how to implement new algorithms & data structures
-- 💡 - I'm also a graphic designer
-- 🎮 - Todo: Learn game design 👾
+- 🎯 - 2021 Goal: Finish building my app!
+- 📚 - Currently learning new algorithms & data structures
+- 🎮 - Also learning game design 👾
 
 #### Connect with me:
 
@@ -18,9 +17,11 @@
 
 #### Languages and Tools:
 
-- JavaScript, Swift, Python
+- JavaScript, Python, Swift
 - React, Next, Gatsby
-- Adobe XD, Photoshop, Illustrator
+- Node, GraphQL
+- Adobe XD
+- Photoshop, Illustrator
 - After Effects
 
 [website]: https://joshcourtney.com
