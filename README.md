@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer
 
-- 🎯 - 2021 Goal: Finish building my app!
+- 🎯 - 2022 Goal: Finish building my app!
 - 📚 - Currently learning new algorithms & data structures
 - 🎮 - Also learning game design 👾
 
