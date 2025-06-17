@@ -22,7 +22,7 @@
 - LangGraph, PyTorch
 - CI/CD, Docker, K8
 
-- Interested Robotics🤖 & XR👓
+- Interested in Robotics🤖 & XR👓
 
 [website]: https://joshcourtney.com
 [course]: https://www.udemy.com/share/103IHM/
