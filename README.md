@@ -1,10 +1,10 @@
 ## Hey. I'm [Josh][website] 👋
 
-### Full Stack Web Developer
+### Full Stack Engineer -> AI Engineer
 
-- 🎯 - 2022 Goal: Finish building my app!
-- 📚 - Currently learning new algorithms & data structures
-- 🎮 - Also learning game design 👾
+- 🎯 - 2025 Goal: Finish building my SaaS app
+- 📚 - Currently learning LangGraph and PyTorch
+- 🎸 - Also learning improv guitar
 
 #### Connect with me:
 
@@ -17,12 +17,12 @@
 
 #### Languages and Tools:
 
-- JavaScript, Python, Swift
-- React, Next, Gatsby
-- Node, GraphQL
-- Adobe XD
-- Photoshop, Illustrator
-- After Effects
+- TypeScript, Python, SQL
+- React, Next, FastAPI
+- LangGraph, PyTorch
+- CI/CD, Docker, K8
+
+- Interested Robotics🤖 & XR👓
 
 [website]: https://joshcourtney.com
 [course]: https://www.udemy.com/share/103IHM/
