@@ -1,31 +1,25 @@
-## Hey. I'm [Josh][website] 👋
+# Hey, I'm Josh 👋
+**Senior Full Stack Engineer → AI-Integrated Systems**
 
-### Full Stack Engineer -> AI Engineer
+I build clean, intelligent systems that simplify complexity and support better decisions. My current focus: full stack development with Python, TypeScript, FastAPI, React, and emerging AI tools like LangGraph and LangChain.
 
-- 🎯 - 2025 Goal: Finish building my SaaS app
-- 📚 - Currently learning LangGraph and PyTorch
-- 🎸 - Also learning improv guitar
+### 🧠 2025 Focus
+- 🎯 Launch and grow my own AI-powered SaaS
+- 🤖 Build intelligent agent tools with LangGraph
+- 📝 Share ideas and experiments on GitHub
 
-#### Connect with me:
+### 🛠️ Projects
+- [`data-ghost`](https://github.com/yourusername/data-ghost) – Agent-powered analytics dashboard
+- [`taskflow`](https://github.com/yourusername/taskflow) – LangGraph task orchestrator
+- [`echo-notes`](https://github.com/yourusername/echo-notes) – Semantic note-taking with Chroma DB
 
-[<img align="left" alt="JoshCourtney.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🔗 Connect
+- 🌐 [JoshCourtney.com](https://joshcourtney.com)
+- 💼 [LinkedIn](https://linkedin.com/in/joshcourtney402)
+- 🧵 [Threads](https://www.threads.com/@joshrcourtney)
 
-<br/>
-
-#### Languages and Tools:
-
-- TypeScript, Python, SQL
-- React, Next, FastAPI
-- LangGraph, PyTorch
-- CI/CD, Docker, K8
-
-- Interested in Robotics🤖 & XR👓
-
-[website]: https://joshcourtney.com
-[course]: https://www.udemy.com/share/103IHM/
-[twitter]: https://twitter.com/joshrcourtney
-[instagram]: https://www.instagram.com/joshrcourtney/
-[linkedin]: https://www.linkedin.com/in/josh-courtney-714419a8/
+### ⚙️ Tools & Tech
+TypeScript • Python • SQL
+React • Next.js • FastAPI
+LangGraph • LangChain • PyTorch
+Docker • Kubernetes • GitLab CI/CD
