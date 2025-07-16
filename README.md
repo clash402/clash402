@@ -9,9 +9,9 @@ I build clean, intelligent systems that simplify complexity and support better d
 - 📝 Share ideas and experiments on GitHub
 
 ### 🛠️ Projects
-- [`data-ghost`](https://github.com/yourusername/data-ghost) – Agent-powered analytics dashboard
-- [`taskflow`](https://github.com/yourusername/taskflow) – LangGraph task orchestrator
-- [`echo-notes`](https://github.com/yourusername/echo-notes) – Semantic note-taking with Chroma DB
+- [`data-ghost`](https://github.com/clash402/data-ghost) – Agent-powered analytics dashboard
+- [`taskflow`](https://github.com/clash402/taskflow) – LangGraph task orchestrator
+- [`echo-notes`](https://github.com/clash402/echo-notes) – Semantic note-taking with Chroma DB
 
 ### 🔗 Connect
 - 🌐 [JoshCourtney.com](https://joshcourtney.com)
