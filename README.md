@@ -1,17 +1,17 @@
 # Hey, I'm Josh 👋
-**Senior Full Stack Engineer → AI-Integrated Systems**
+**Staff Software Engineer — Systems, Data Platforms, and AI-Enabled Products**
 
-I build clean, intelligent systems that simplify complexity and support better decisions. My current focus: full stack development with Python, TypeScript, FastAPI, React, and emerging AI tools like LangGraph and LangChain.
+I design and build scalable systems that simplify complexity and support better decision-making. My work spans system architecture, data platforms, and AI-enabled products, with an emphasis on clarity, reliability, and long-term maintainability.
 
-### 🧠 2025 Focus
-- 🎯 Launch and grow my own AI-powered SaaS
-- 🤖 Build intelligent agent tools with LangGraph
-- 📝 Share ideas and experiments on GitHub
+### 🧠 2026 Focus
+- 🎯 Designing and launching an AI-powered SaaS
+- 🤖 Exploring agent-based system design with LangGraph
+- 📝 Sharing experiments and system patterns through open-source projects
 
 ### 🛠️ Projects
-- [`data-ghost`](https://github.com/clash402/data-ghost) – Agent-powered analytics dashboard
-- [`taskflow`](https://github.com/clash402/taskflow) – LangGraph task orchestrator
-- [`echo-notes`](https://github.com/clash402/echo-notes) – Semantic note-taking with Chroma DB
+- [`data-ghost`](https://github.com/clash402/data-ghost) – Natural-language analytics interface translating user intent into data insights
+- [`taskflow`](https://github.com/clash402/taskflow) – Agent-based backend orchestration system built with LangGraph
+- [`echo-notes`](https://github.com/clash402/echo-notes) – Semantic search system for personal knowledge using embeddings and vector storage
 
 ### 🔗 Connect
 - 🌐 [JoshCourtney.com](https://joshcourtney.com)
@@ -19,7 +19,5 @@ I build clean, intelligent systems that simplify complexity and support better d
 - 🧵 [Threads](https://www.threads.com/@joshrcourtney)
 
 ### ⚙️ Tools & Tech
-TypeScript • Python • SQL
-React • Next.js • FastAPI
-LangGraph • LangChain • PyTorch
-Docker • Kubernetes • GitLab CI/CD
+Python · TypeScript · SQL · FastAPI · LangGraph · LangChain · React · Next.js
+Docker · Kubernetes · AWS · GitLab CI/CD
