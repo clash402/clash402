@@ -9,9 +9,9 @@ I design and build scalable systems that simplify complexity and support better 
 - 📝 Sharing experiments and system patterns through open-source projects
 
 ### 🛠️ Projects
-- [`data-ghost`](https://github.com/clash402/data-ghost) – Natural-language interface for analytics and data exploration
-- [`taskflow`](https://github.com/clash402/taskflow) – Agent-based backend orchestration system that plans, executes, and coordinates multi-step tasks using LangGraph workflows
-- [`echo-notes`](https://github.com/clash402/echo-notes) – Semantic search system for personal knowledge using embeddings and vector storage
+- [`data-ghost`](https://github.com/clash402/data-ghost-api) – Natural-language interface for analytics and data exploration
+- [`taskflow`](https://github.com/clash402/taskflow-api) – Agent-based backend orchestration system that plans, executes, and coordinates multi-step tasks using LangGraph workflows
+- [`echo-notes`](https://github.com/clash402/echo-notes-api) – Semantic search system for personal knowledge using embeddings and vector storage
 
 ### 🔗 Connect
 - 🌐 [JoshCourtney.com](https://joshcourtney.com)
