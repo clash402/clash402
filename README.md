@@ -1,22 +1,24 @@
 # Hey, I'm Josh 👋
-**Staff Software Engineer — Systems, Data Platforms, and AI-Enabled Products**
+**Staff AI Engineer — System Design, AI Systems, and Scalable Platforms**
 
-I design and build scalable systems that simplify complexity and support better decision-making. My work spans system architecture, data platforms, and AI-enabled products, with an emphasis on clarity, reliability, and long-term maintainability.
+I design and deliver enterprise-scale applications, data platforms, and AI-enabled systems. My work spans system architecture, cloud-native infrastructure, agent workflows, semantic search, and full-stack engineering, with a focus on building intelligent systems that are reliable, maintainable, and scalable.
 
-### 🧠 2026 Focus
-- 🎯 Designing and launching an AI-powered SaaS
-- 🤖 Exploring agent-based system design with LangGraph
-- 📝 Sharing experiments and system patterns through open-source projects
+### 🚀 What I Work On
+- Enterprise AI systems
+- Agent workflows and orchestration
+- Semantic search and retrieval
+- Natural-language analytics
+- Cloud-native platform architecture
 
 ### 🛠️ Projects
-- [`data-ghost`](https://github.com/clash402/data-ghost-api) – Natural-language interface for analytics and data exploration
-- [`taskflow`](https://github.com/clash402/taskflow-api) – Agent-based backend orchestration system that plans, executes, and coordinates multi-step tasks using LangGraph workflows
-- [`echo-notes`](https://github.com/clash402/echo-notes-api) – Semantic search system for personal knowledge using embeddings and vector storage
+- [`taskflow`](https://github.com/clash402/taskflow-api) – Agent orchestration platform built with LangGraph workflows.
+- [`data-ghost`](https://github.com/clash402/data-ghost-api) – Natural-language analytics and data exploration system.
+- [`echo-notes`](https://github.com/clash402/echo-notes-api) – Semantic search and knowledge retrieval platform.
 
 ### 🔗 Connect
 - 🌐 [JoshCourtney.com](https://joshcourtney.com)
 - 💼 [LinkedIn](https://linkedin.com/in/joshcourtney402)
-- 🧵 [Threads](https://www.threads.com/@joshrcourtney)
+- ✉️ [Email](mailto:joshrcourtney@gmail.com)
 
 ### ⚙️ Tools & Tech
 Python · TypeScript · SQL · FastAPI · LangGraph · LangChain · React · Next.js
